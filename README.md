@@ -100,4 +100,4 @@
 
 - Make sure you go over the roadmap of specific technology or stack before you start using the resources.
 - Some of the links for the udemy courses might be broken so try to check the other resources.
-- If u want to request resources or having other issues feel free to contact me on my socials.
+- If u want to request resources, report broken links or having other issues feel free to contact me on my socials.
