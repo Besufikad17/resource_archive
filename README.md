@@ -1,4 +1,32 @@
-# Programming resources and tools
+
+# A Guide To Become A Developer 
+ ## This Is  resource Archive For Folks That Want To Become a Devloper 
+ 
+ 
+ Web Development 
+  * **Front End**
+  * **First Start With The Basics HTML and CSS**
+    * [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+    * [Youtube](https://youtu.be/QRrPE9aj3wI)
+     * **IF You Prefer Reading** 
+         * [W3 Schools](https://www.w3schools.com/html/default.asp)
+         * [Mozila Devs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ *  **Then Learn Css FrameWorks**
+     * [Tailwind](https://tailwindcss.com/)
+     * [BootStrap](https://getbootstrap.com/)
+ 
+  > **Note:** After You Learned Something New  **Do Project On it** 
+  > for Project Ideas you can visit [Frontend Mentor](https://www.frontendmentor.io/)
+ 
+   *  **JavaScript**
+         * [Udemy](https://www.udemy.com/course/the-complete-javascript-course/)      
+         * [Youtube](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia )   
+
+  > **Note:**  After  Learing JavaScript And Build Some Vanila Projects You Can Deep Dive into FrameWorks like Angular, React, Vue and Svelete
+
+
+
+# Other Dev Resource Archives
 
 <table class="tg">
 <thead>
@@ -77,18 +105,20 @@
     <td class="tg-0lax">IDE</td>
     <td class="tg-0lax"><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">VSCode</a> ,<a href="https://www.jetbrains.com/go/download/" target="_blank" rel="noopener noreferrer">Goland</a></td>
   </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;color:#000">Version Control Systems (VCS)</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Tool</td>
-    <td class="tg-0lax"><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a></td>
+   <tr>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Dart and Flutter</span></td>
+    <td class="tg-0pky" rowspan="2"><a href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/" target="_blank" rel="noopener noreferrer">Flutter & Dart - The Complete Guide [2023 Edition]</a></td>
+    <td class="tg-0pky" rowspan="2"><a href="https://www.youtube.com/@ResoCoder" target="_blank" rel="noopener noreferrer">Reso Coder</a><br><br><a href="https://www.youtube.com/@HeyFlutter" target="_blank" rel="noopener noreferrer">Hey Flutter</a></td>
+    <td class="tg-0pky" rowspan="2"><a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">w3schools</a></td>
+    <td class="tg-0pky" rowspan="2"><br><a href="https://roadmap.sh/flutter" target="_blank" rel="noopener noreferrer">Flutter</a></td>
+    <td class="tg-0pky">IDE</td>
+    <td class="tg-0pky"><a href="https://dartpad.dev/?" target="_blank" rel="noopener noreferrer">Dart Pad</a>, <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiawMal09T_AhXaO-wKHcGGC5QQFnoECBMQAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml&opi=89978449" target="_blank" rel="noopener noreferrer">VSCODE</a></td>
   </tr>
-</tbody>
-</table>
 
+</tbody>
+
+## Version Control System  
+ ## [Git](https://github.com/)
 # Contributing 
 
 - Clone the repo
@@ -101,3 +131,10 @@
 - Make sure you go over the roadmap of specific technology or stack before you start using the resources.
 - Some of the links for the udemy courses might be broken so try to check the other resources.
 - If u want to request resources, report broken links or having other issues feel free to contact me on my socials.
+
+
+
+
+
+
+
