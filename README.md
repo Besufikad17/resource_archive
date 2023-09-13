@@ -27,9 +27,6 @@
 
 
 # Other Dev Resource Archives
-
-
-</style>
 <table class="tg">
 <thead>
   <tr>
