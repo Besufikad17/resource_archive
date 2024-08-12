@@ -1,32 +1,32 @@
+# A Guide To Become A Developer
 
-# A Guide To Become A Developer 
- ## This Is  resource Archive For Folks That Want To Become a Devloper 
- 
- 
- Web Development 
-  * **Front End**
-  * **First Start With The Basics HTML and CSS**
-    * [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
-    * [Youtube](https://youtu.be/QRrPE9aj3wI)
-     * **IF You Prefer Reading** 
-         * [W3 Schools](https://www.w3schools.com/html/default.asp)
-         * [Mozila Devs](https://developer.mozilla.org/en-US/docs/Web/HTML)
- *  **Then Learn Css FrameWorks**
-     * [Tailwind](https://tailwindcss.com/)
-     * [BootStrap](https://getbootstrap.com/)
- 
-  > **Note:** After You Learned Something New  **Do Project On it** 
-  > for Project Ideas you can visit [Frontend Mentor](https://www.frontendmentor.io/)
- 
-   *  **JavaScript**
-         * [Udemy](https://www.udemy.com/course/the-complete-javascript-course/)      
-         * [Youtube](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia )   
+## This Is  resource Archive For Folks That Want To Become a Developer
 
-  > **Note:**  After  Learing JavaScript And Build Some Vanila Projects You Can Deep Dive into FrameWorks like Angular, React, Vue and Svelete
+### Web Development
 
+- **Front End**
 
+- **First Start With The Basics HTML and CSS**
+  - [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+  - [Youtube](https://youtu.be/QRrPE9aj3wI)
+  - **IF You Prefer Reading**
+    - [W3 Schools](https://www.w3schools.com/html/default.asp)
+    - [Mozilla Devs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- **Then Learn Css FrameWorks**
+  - [Tailwind](https://tailwindcss.com/)
+  - [BootStrap](https://getbootstrap.com/)
 
-# Other Dev Resource Archives
+  > **Note:** After You Learned Something New  **Do Project On it**.
+  > For Project Ideas you can visit [Frontend Mentor](https://www.frontendmentor.io/)
+
+- **JavaScript**
+  - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/)
+  - [Youtube](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia )
+
+  > **Note:**  After Learning JavaScript And Built Some Vanilla Projects You Can Deep Dive into FrameWorks like Angular, React, Vue and Svelte.
+
+## Other Dev Resource Archives
+
 <table class="tg">
 <thead>
   <tr>
@@ -131,26 +131,19 @@
   </tr>
 </tbody>
 
-
-
 ## Version Control System  
- ## [Git](https://github.com/)
-# Contributing 
+
+### [Git](https://github.com/)
+
+## Contributing
 
 - Clone the repo
 - Create row using [Table generator](https://www.tablesgenerator.com/html_tables) for new technology, programming language or tech stack.
 - If u want add in the existing resource copy the table code from this markdown file and paste in [Table generator](https://www.tablesgenerator.com/html_tables) and edit it carefully.
 - Create pull request.
 
-# Note
+## Note
 
 - Make sure you go over the roadmap of specific technology or stack before you start using the resources.
 - Some of the links for the udemy courses might be broken so try to check the other resources.
 - If u want to request resources, report broken links or having other issues feel free to contact me on my socials.
-
-
-
-
-
-
-
